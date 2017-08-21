@@ -1,1 +1,3 @@
-# qml
+# qml repository
+#Contains:
+#calculator

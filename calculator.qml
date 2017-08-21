@@ -56,7 +56,11 @@ import QtScxml 5.8
 Window {
     id: window
     visible: true
+<<<<<<< HEAD
+    width: 400
+=======
     width: 320
+>>>>>>> origin/development
     height: 480
 
     CalculatorStateMachine {
